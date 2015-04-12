@@ -20,3 +20,6 @@ Quick and easy tutorial, how to install golang on ubuntu
 
 <a href="https://golang.org/doc/articles/wiki/">Writing Web Applications</a> <br>
 Basic started to writing web application for go
+
+<a href="https://www.youtube.com/watch?v=AiRhWG-2nGU"> How to build a simple web app in golang - Redirectapp</a> (<em> by Khaja Minhajuddin</em>)
+Minhajuddin show you How to create a simple web app in golang
