@@ -11,7 +11,7 @@ Recommended book to learn quickly the basic of Go programming language
 
 <h3> Tutorial </h3>
 
-<a href="https://www.youtube.com/watch?v=XCsL89YtqCs"> Writing, building, installing, and testing Go code (<em>Oct 26, 2012</em>) <br>
+<a href="https://www.youtube.com/watch?v=XCsL89YtqCs"> Writing, building, installing, and testing Go code</a> (<em>Oct 26, 2012</em>) <br>
 
 Recommended tutorial for newcomers who want to learn Go Programming Language. This screencast describes setting up a workspace (GOPATH), writing commands and packages, using the go tool to build and install, and using the testing package to write unit tests.
 
